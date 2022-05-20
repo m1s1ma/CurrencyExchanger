@@ -1,0 +1,35 @@
+{
+  "paths": [
+    {
+      "name": "RubToBtc",
+      "path": [
+        "RUB20",
+        "USDT",
+        "BTC"
+      ]
+    },
+    {
+      "name": "EthToUsdt",
+      "path": [
+        "ETH",
+        "USDT"
+      ]
+    },
+    {
+      "name": "BtcToHit",
+      "path": [
+        "BTC",
+        "USDT",
+        "DOT",
+        "HIT"
+      ]
+    },
+    {
+      "name": "BtcToUsdt",
+      "path": [
+        "BTC",
+        "USDT"
+      ]
+    }
+  ]
+}
